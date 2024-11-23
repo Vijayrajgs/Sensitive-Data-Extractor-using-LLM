@@ -156,7 +156,7 @@ project/
 
 │ └── file_utils.py 
 
-│ ├── docker-compose.yml 
+├── docker-compose.yml 
 
 ├── Dockerfile 
 
