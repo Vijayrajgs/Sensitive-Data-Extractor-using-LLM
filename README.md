@@ -124,8 +124,6 @@ project/
 
 │ ├── init.py 
 
-│ ├── app.py 
-
 │ ├── config.py 
 
 │ ├── routes.py 
@@ -161,6 +159,8 @@ project/
 │ ├── docker-compose.yml 
 
 ├── Dockerfile 
+
+├── app.py 
 
 ├── requirements.txt 
 
