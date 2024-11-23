@@ -110,28 +110,51 @@ The web app provides the following features:
 project/
 
 │ ├── app/ 
+
 │ ├── init.py 
+
 │ ├── app.py 
+
 │ ├── config.py 
+
 │ ├── routes.py 
+
 │ ├── detection/ 
+
 │ │ └── llm_detector.py 
+
 │ ├── models/ 
+
 │ │ ├── database.py 
+
 │ │ └── scan_model.py 
+
 │ ├── static/
+
 | | └──styles.css
+
 │ ├── templates/ 
+
 │ │ ├── index.html 
+
 │ │ ├── upload.html 
+
 │ │ ├── view_scan.html 
+
 │ │ └── history.html 
+
 │ └── utils/ 
+
 │ └── file_utils.py 
+
 │ ├── docker-compose.yml 
+
 ├── Dockerfile 
+
 ├── requirements.txt 
+
 └── README.md
+
 
 ### Running the Application
 
