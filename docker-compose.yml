@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    environment:
+      MONGO_INITDB_DATABASE: sensitive_data  # Optional: Database to create (this can be anything)
+    ports:
+      - "27017:27017"  # Expose the MongoDB port for communication

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Sensitive Data Extractor</h1>
+        <p>Navigate through the options to upload files, view history, or manage your data.</p>
+        <div class="navigation">
+            <a href="{{ url_for('upload_file') }}">Upload File</a> |
+            <a href="{{ url_for('history') }}">View History</a>
+        </div>
+    </div>
+</body>
+</html>

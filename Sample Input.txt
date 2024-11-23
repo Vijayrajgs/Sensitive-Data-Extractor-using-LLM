@@ -1,0 +1,37 @@
+Patient Name: John Doe
+Patient ID: 123456789
+Date of Birth: 1985-05-15
+Address: 123 Elm Street, Springfield, IL 62701, USA
+Phone Number: (555) 123-4567
+Email: johndoe@example.com
+Insurance Number: ABCD1234XYZ
+Doctor's Name: Dr. Jane Smith
+Blood Pressure: 120/80
+Height: 5'9"
+Weight: 160 lbs
+Allergies: Penicillin, Peanuts
+Surgical History: Appendectomy in 2010
+Payment Method: Visa ending in 4532
+Credit Card Number: 4532 7890 1234 5678
+Expiration Date: 12/25
+Social Security Number (SSN): 123-45-6789
+Bank Account Number: 9876543210
+Emergency Contact: Mary Doe, (555) 987-6543
+
+Medical Test Results:
+- Cholesterol Level: 190 mg/dL
+- Blood Glucose: 95 mg/dL
+- Hemoglobin A1C: 5.6%
+- ECG: Normal
+- X-Ray: Clear
+
+Clinical Notes:
+Patient reports occasional headaches. No history of major illnesses. Recently started exercising regularly and reports feeling more energetic. Follow-up appointment scheduled for 6 months.
+
+Other Information:
+Payment History: 
+- 2023: Paid $1500
+- 2022: Paid $1300
+- 2021: Paid $1200
+
+Next Appointment: 2024-07-15
