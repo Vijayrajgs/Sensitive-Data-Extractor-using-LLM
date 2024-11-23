@@ -3,7 +3,7 @@ Sensitive Data Detection with Dockerized Flask Application
 
 # Flask Web Application with MongoDB in Docker
 
-This project provides a Flask-based web application that connects to a MongoDB database running inside a Docker container. The web application allows users to upload files, extract sensitive data, and view the extracted information in the web interface. It also includes functionalities for viewing previous scans and deleting entries from the database.
+This project provides a Flask-based web application that allows users to upload files, extract sensitive data, and view the extracted information in the web interface. It also includes functionalities for viewing previous scans and deleting entries from the database which is a MongoDB database running inside a Docker container. The app allows users to upload text files, extract sensitive information (PII, PHI, PCI) using Google's Gemini Generative AI model via LangChain, and store the results in a MongoDB database. Users can view, manage, and delete previously uploaded scans through a simple web interface. The app uses Docker Compose for easy deployment and management of the MongoDB container. The primary functionalities include file uploads, AI-driven data extraction, and scan history management with delete function.
 
 ## Project Setup
 
