@@ -108,6 +108,7 @@ The web app provides the following features:
 
 ### Directory Structure
 project/
+
 │ ├── app/ 
 │ ├── init.py 
 │ ├── app.py 
