@@ -5,3 +5,4 @@ flask_pymongo
 langchain
 langchain_google_genai
 bson
+flake8
