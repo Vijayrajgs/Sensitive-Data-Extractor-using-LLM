@@ -2,7 +2,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
-GOOGLE_API_KEY = "AIzaSyCCg21eLTOor53LJW3vAdoas3U9HbwfcQk"  # Replace with your actual Google API key
+GOOGLE_API_KEY = ""  # Replace with your actual Google API key
 
 def detect_sensitive_data(file_content):
     prompt_template = """
