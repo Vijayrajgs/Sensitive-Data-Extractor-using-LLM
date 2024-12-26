@@ -1,4 +1,4 @@
-# Aruva
+# Sensitive Data Extractor using LLM
 Sensitive Data Detection with Dockerized Flask Application
 
 # Flask Web Application with MongoDB in Docker
